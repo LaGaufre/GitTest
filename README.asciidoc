@@ -1,3 +1,4 @@
+Toc 
 A simple Java EE 7 Sample
 =========================
 
